@@ -1,4 +1,4 @@
-﻿/*#include <stdio.h>
+﻿#include <stdio.h>
 #define MAX_DEGREE 101
 
 typedef struct{
@@ -43,4 +43,4 @@ int main() {
 	print_polynomial(c);
 
 	return 0;
-}*/
+}
